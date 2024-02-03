@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337215195382",
+    "project_id": "insta-clone-4403f",
+    "storage_bucket": "insta-clone-4403f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337215195382:android:572cf26115a76992df44d7",
+        "android_client_info": {
+          "package_name": "com.example.valo_accounts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKnP79VKVAk4ZkvwDyou8ClmH0YI0pvnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
